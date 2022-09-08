@@ -1,0 +1,12 @@
+npm install @mui/material @emotion/react @emotion/styled
+npm install react-router-dom@6
+npm install @mui/icons-material
+npm install @material-ui/core
+npm install -D tailwindcss postcss autoprefixer
+npm install @heroicons/react
+npm install @mui/icons-material
+npm install --save react-map-gl mapbox-gl
+npm install -D @tailwindcss/forms
+npm install -S axios
+npm i react-map-gl-draw
+npm i qs

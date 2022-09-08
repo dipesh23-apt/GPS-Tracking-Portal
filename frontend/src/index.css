@@ -1,0 +1,12 @@
+
+@tailwind base;
+:root {
+  --color-primary:83, 83, 212;
+  --color-background:83,83,212;
+  --font-family: Proxima Nova, system-ui, sans-serif;
+
+}
+@tailwind components;
+@tailwind utilities;
+
+
