@@ -2,8 +2,9 @@
 ## Functionalities to implement in this Project of `GPS Asset Tracking`
 ![basis](https://user-images.githubusercontent.com/80080241/189110738-fd7376f3-dda2-492d-a490-32cd12099360.png)
 ![chrome_fePJityKuJ](https://user-images.githubusercontent.com/80080241/189110639-688eb1ba-84f1-4f11-9ae8-786b2c87dec9.png)
-# Project DEMO 
- https://drive.google.com/file/d/1z_7T0DGMCdjtjCvHkfdmEDYyeJyjpcmt/view?usp=sharing
+# Project DEMO
+> 4:14-10:14 <br/>
+https://drive.google.com/file/d/16i3aa3LqnnzKPpF-wqWN1Tyn5Vl4i4cD/view?usp=sharing
 ## Dashboard view
 ![vlc_Ag2UzffGvG](https://user-images.githubusercontent.com/80080241/189110261-df137021-d570-4427-a877-cbfacadaee57.png)
 ## Asset Tracking view
